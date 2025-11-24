@@ -87,3 +87,8 @@ th {
 #navbar ul li:hover {
     background-color: rgb(158, 154, 90);
 }
+
+.filter label {
+    margin-top: 21px;
+        
+}
